@@ -61,4 +61,4 @@ for product in products:
 
 
 
-# driver.quit()
+driver.quit()
